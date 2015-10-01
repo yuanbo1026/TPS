@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">TPS</string>
+
+    <!-- main layout button names -->
+    <string name="home_button_product_service">Product &amp; Service</string>
+    <string name="home_button_contact">Contact</string>
+    <string name="home_button_calculate">Calculate</string>
+    <string name="home_button_converse">Converse</string>
+    <!-- calculate spinner string array -->
+    <string-array name="tool_name_arrays">
+        <item>Malaysia</item>
+        <item>United States</item>
+        <item>Indonesia</item>
+        <item>France</item>
+        <item>Italy</item>
+        <item>Singapore</item>
+        <item>India</item>
+    </string-array>
+</resources>
